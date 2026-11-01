@@ -1,0 +1,6 @@
+{
+  "name": "パパ丸山 公式サイト | 音声配信・イベント・講演・研修",
+  "description": "Voicy10周年・Uracy主催のパパ丸山公式サイト。講演、Podcast番組制作、イベント企画・MC、プレゼン研修のご依頼を承ります。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
